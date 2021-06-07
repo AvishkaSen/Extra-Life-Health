@@ -1,6 +1,8 @@
 # Extra-Life-Health
 
-**NETBEANS IDE IS RECOMMENDED FOR THIS APPLICATION** 
+
+_**---- NETBEANS IDE IS RECOMMENDED FOR THIS APPLICATION ----**_ 
+
 
 The purpose of this application is to provide health based information and medical recommendation through a Java Swing GUI, with the use of the Gang of Four (GoF) Design patterns.
 
